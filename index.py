@@ -251,8 +251,7 @@ if __name__ == '__main__':
 	print("@Query:1")
 	query1 = "KENNEDY ADMINISTRATION PRESSURE ON NGO DINH DIEM TO STOP SUPPRESSING THE BUDDHISTS"
 	query1 = re.split(" ", query1.lower())
-	print(query1)
-	a.query(query1)
+	a.query(query1, k= 15)
 	# Query 6
 	print("@Query:6")
 	a.query(["ceremonial","cuicides","commited","by","some","buddhist","monks","in","south","viet","nam","and",
@@ -264,4 +263,4 @@ if __name__ == '__main__':
 	# Query 31
 	print("@Query:31")
 	a.query(["leaders","which","figure","in","discussions","of","the","future","of","the",
-	"west","german","chancellorship"])
+	"west","german","chancellorship"], k =46)
