@@ -1,0 +1,50 @@
+Index built in 0.919991970062 seconds
+@Query:1
+['kennedy', 'administration', 'pressure', 'on', 'ngo', 'dinh', 'diem', 'to', 'stop', 'suppressing', 'the', 'buddhists']
+Query : ['kennedy', 'administration', 'pressure', 'on', 'ngo', 'dinh', 'diem', 'to', 'stop', 'suppressing', 'the', 'buddhists']
+docId: 303,File Name : *TEXT 390, Similarity : 0.129390384942
+docId: 322,File Name : *TEXT 414, Similarity : 0.127824757031
+docId: 267,File Name : *TEXT 334, Similarity : 0.124331712422
+docId: 256,File Name : *TEXT 320, Similarity : 0.122315650822
+docId: 287,File Name : *TEXT 363, Similarity : 0.116325614791
+docId: 375,File Name : *TEXT 508, Similarity : 0.114167447605
+docId: 418,File Name : *TEXT 559, Similarity : 0.114119584196
+docId: 307,File Name : *TEXT 396, Similarity : 0.110876852299
+docId: 405,File Name : *TEXT 544, Similarity : 0.109047148897
+docId: 170,File Name : *TEXT 228, Similarity : 0.0912387078118
+@Query:6
+Query : ['ceremonial', 'cuicides', 'commited', 'by', 'some', 'buddhist', 'monks', 'in', 'south', 'viet', 'nam', 'and', 'what', 'they', 'are', 'seeking', 'to', 'gain', 'by', 'such', 'acts']
+docId: 256,File Name : *TEXT 320, Similarity : 0.0844466688428
+docId: 267,File Name : *TEXT 334, Similarity : 0.0843764157985
+docId: 287,File Name : *TEXT 363, Similarity : 0.0737627609838
+docId: 307,File Name : *TEXT 396, Similarity : 0.0710995064465
+docId: 322,File Name : *TEXT 414, Similarity : 0.0657679087408
+docId: 323,File Name : *TEXT 415, Similarity : 0.0606114596183
+docId: 325,File Name : *TEXT 418, Similarity : 0.060424424918
+docId: 303,File Name : *TEXT 390, Similarity : 0.0588492746984
+docId: 333,File Name : *TEXT 434, Similarity : 0.055985496236
+docId: 399,File Name : *TEXT 538, Similarity : 0.0548512098668
+@Query:12
+Query : ['controversy', 'betwwen', 'indonesia', 'and', 'malaya', 'on', 'the', 'proposed', 'pederation', 'of', 'malaysia', 'which', 'would', 'unite', 'five', 'territories']
+docId: 357,File Name : *TEXT 479, Similarity : 0.150109969407
+docId: 241,File Name : *TEXT 303, Similarity : 0.141151631228
+docId: 268,File Name : *TEXT 335, Similarity : 0.139112579055
+docId: 60,File Name : *TEXT 094, Similarity : 0.137720073407
+docId: 302,File Name : *TEXT 389, Similarity : 0.111961349392
+docId: 154,File Name : *TEXT 203, Similarity : 0.0999012985257
+docId: 155,File Name : *TEXT 204, Similarity : 0.0905937348469
+docId: 338,File Name : *TEXT 443, Similarity : 0.0739699480889
+docId: 197,File Name : *TEXT 256, Similarity : 0.0543188389266
+docId: 89,File Name : *TEXT 128, Similarity : 0.0418206496743
+@Query:31
+Query : ['leaders', 'which', 'figure', 'in', 'discussions', 'of', 'the', 'future', 'of', 'the', 'west', 'german', 'chancellorship']
+docId: 38,File Name : *TEXT 063, Similarity : 0.0803651333362
+docId: 80,File Name : *TEXT 116, Similarity : 0.0706583736263
+docId: 55,File Name : *TEXT 088, Similarity : 0.0705058495443
+docId: 8,File Name : *TEXT 026, Similarity : 0.0630830232551
+docId: 302,File Name : *TEXT 389, Similarity : 0.0623270925023
+docId: 204,File Name : *TEXT 263, Similarity : 0.0488587380365
+docId: 238,File Name : *TEXT 300, Similarity : 0.0459734611142
+docId: 46,File Name : *TEXT 071, Similarity : 0.0404644655463
+docId: 326,File Name : *TEXT 422, Similarity : 0.0354645595793
+docId: 349,File Name : *TEXT 470, Similarity : 0.0346194376254
